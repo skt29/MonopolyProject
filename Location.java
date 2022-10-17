@@ -18,12 +18,12 @@ class Location<T>{
     public void options(Player player){
         if(data instanceof Property){
             Property property = (Property) data;
-            if(property.owner)
+            //if(property.owner)
         }
         else if(data instanceof Railroad){
 
         }
-        else if()
+      //  else if()
     }
 }
 
