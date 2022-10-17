@@ -1,6 +1,7 @@
 public class Main{
     public static CircularlyLinkedList board = new CircularlyLinkedList();
     //public static Property
+    //a
     public static void main(String[] args){
 
         Player a = new Player("Yo", 9);
